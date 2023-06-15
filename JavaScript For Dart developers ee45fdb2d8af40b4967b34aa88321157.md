@@ -1,3 +1,4 @@
+[![My Skills](https://skillicons.dev/icons?i=js,dart)](https://skillicons.dev)
 # JavaScript For Dart developers
 
 # JavaScript Variables
